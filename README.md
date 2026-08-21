@@ -46,7 +46,7 @@ I am a **B.Tech Artificial Intelligence and Data Science student** at **Christ t
 I am particularly interested in:
 
 - 🤖 Artificial Intelligence
-- 🧠 Machine Learning
+- 🧠 Data Science
 - 📊 Data Analytics
 - 📈 Digital Marketing
 - 🔎 Search Engine Optimization (SEO)
@@ -160,7 +160,7 @@ The project focuses on improving user productivity through AI-based interaction 
 
 ---
 
-## ⚡ EV Charging Management System with AI
+## ⚡ EV Charging Management System with AI #(on going project)
 
 **Technologies:**  
 `Python` `Machine Learning` `Web Application` `Database`
@@ -238,40 +238,46 @@ My primary career interests include:
 
 # 📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PreamNishanth-53&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    alt="PreamNishanth-53 GitHub Stats"
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=PreamNishanth-53&show_icons=true&hide_border=true"
+    alt="GitHub Statistics"
     height="180"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreamNishanth-53&layout=compact&theme=radical&hide_border=true"
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PreamNishanth-53&layout=compact&hide_border=true"
     alt="Top Languages"
     height="180"
   />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
 
+<!-- GitHub Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PreamNishanth-53&theme=radical&hide_border=true"/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PreamNishanth-53&hide_border=true"
+    alt="Pream Nishanth GitHub Streak"
+  />
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
+<!-- Contribution Activity -->
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PreamNishanth-53&theme=react-dark&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PreamNishanth-53&hide_border=true"
+    alt="Pream Nishanth Contribution Activity"
+  />
 </p>
 
 ---
