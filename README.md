@@ -160,7 +160,8 @@ The project focuses on improving user productivity through AI-based interaction 
 
 ---
 
-## ⚡ EV Charging Management System with AI #(on going project)
+## ⚡ EV Charging Management System with AI
+**Status:** 🚧 Ongoing Project
 
 **Technologies:**  
 `Python` `Machine Learning` `Web Application` `Database`
@@ -213,26 +214,22 @@ Workshop covering **AI agents, workflow automation, and data visualization**.
 
 # 🎯 Career Interests
 
-My primary career interests include:
+My primary career interests are:
 
 - 📈 Digital Marketing
-- 🔎 Search Engine Optimization
-- 📢 Search Engine Marketing
+- 🔎 Search Engine Optimization (SEO)
+- 📢 Search Engine Marketing (SEM)
 - 📱 Social Media Marketing
 - 📊 Data Analytics
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 
-### Career Interest
-
-**Digital Marketing**
-
 ---
 
 # 🌍 Languages
 
-- 🇬🇧 English
-- 🇮🇳 Tamil
+- 🇬🇧 ENGLISH
+- 🇮🇳 TAMIL
 
 ---
 
